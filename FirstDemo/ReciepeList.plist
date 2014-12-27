@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>ButterChicken</string>
+		<key>imageName</key>
+		<string>butterChicken.png</string>
+		<key>ingredients</key>
+		<string>fresh boiled Chicken , Butter (2 tps)</string>
+		<key>procedure</key>
+		<string>Do Google Search ...   ggggjhjsdknfksnfsfnsdkfhsjhflajfljaljfjhfmdhatgdmadnadaldmladlahd</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MutterPaneer</string>
+		<key>imageName</key>
+		<string>mutterPaneer.png</string>
+		<key>ingredients</key>
+		<string>fresh boiled Paneer , Mutter (22 ps)</string>
+		<key>procedure</key>
+		<string>Do Google Search ...</string>
+	</dict>
+</array>
+</plist>
